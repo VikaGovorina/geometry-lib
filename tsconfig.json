@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "CommonJS",
+
+    "strict": true,
+    "allowJs": false,
+
+    "rootDir": "./src",
+    "outDir": "./dist"
+  },
+
+  "include": ["src"]
+}
