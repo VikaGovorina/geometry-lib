@@ -38,7 +38,7 @@ dist/
 ## Использование
 
 ```
-import { Rectangle, Circle, Triangle } from "./dist/index";
+import { Rectangle, Circle, Triangle } from "./dist/index.js";
 ```
 
 Примеры из src/examples
